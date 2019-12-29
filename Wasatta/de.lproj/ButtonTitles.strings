@@ -1,0 +1,24 @@
+/* 
+  ButtonTitles.strings
+  Wasatta
+
+  Created by Said Abdulla on 3/20/19.
+  Copyright © 2019 Said Abdulla. All rights reserved.
+*/
+
+"Change" = "Sprache ändern";
+
+"Reset" = "Verwende den Standard";
+
+"Sign in" = "Einloggen";
+"Skip" = "Skip";
+"Sign in with Facebook" = "Mit Facebook anmelden";
+"Sign in with Google" = "Anmeldung mit Google";
+"Sign up to continue" = "Melden Sie sich an, um fortzufahren";
+"Show all properties" = "Alle Eigenschaften anzeigen";
+"Sign up" = "Anmelden";
+"Skip" = "Überspringen";
+"Login to continue" = "Melden Sie sich an, um fortzufahren";
+
+"More search filters" = "More search filters";
+

@@ -1,0 +1,6 @@
+framework module Shades {
+  umbrella header "Shades-umbrella.h"
+
+  export *
+  module * { export * }
+}

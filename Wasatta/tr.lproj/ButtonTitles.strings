@@ -1,0 +1,25 @@
+/* 
+  ButtonTitles.strings
+  Wasatta
+
+  Created by Said Abdulla on 3/20/19.
+  Copyright © 2019 Said Abdulla. All rights reserved.
+*/
+
+
+"Change" = "Dili değiştir";
+
+"Reset" = "Varsayılanı Kullan";
+
+"Sign in" = "oturum aç";
+"Skip" = "atlamak";
+"Sign in with Facebook" = "Facebook ile giriş";
+"Sign in with Google" = "Google ile giriş yap";
+"Sign up to continue" = "Devam etmek için kayıt olun";
+"Show all properties" = "Tüm özellikleri göster";
+"Sign up" = "kaydol";
+"Skip" = "atlamak";
+"Login to continue" = "Devam etmek için giriş yapın";
+"More search filters" = "More search filters";
+
+

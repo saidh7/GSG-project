@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Tajawal-Bold.ttf">
+            <string>Tajawal-Bold</string>
+        </array>
+        <array key="Tajawal-Regular.ttf">
+            <string>Tajawal-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <viewController storyboardIdentifier="PopUpMessage" modalTransitionStyle="crossDissolve" modalPresentationStyle="overCurrentContext" id="IkD-iJ-SLC" customClass="PopUpMessage" customModule="Wasatta" customModuleProvider="target">
+            <layoutGuides>
+                <viewControllerLayoutGuide type="top" id="xqI-tA-oIt"/>
+                <viewControllerLayoutGuide type="bottom" id="ILe-N5-EvV"/>
+            </layoutGuides>
+            <view key="view" contentMode="scaleToFill" id="Ol9-vc-tVC">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                <subviews>
+                    <button opaque="NO" alpha="0.30000001192092896" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qGl-bp-XPa">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                    </button>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8kc-rR-nOw">
+                        <rect key="frame" x="37.5" y="200" width="300" height="267"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="UOc-Yt-42D">
+                                <rect key="frame" x="16" y="15" width="268" height="236"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="ZiX-dW-1Mw">
+                                        <rect key="frame" x="0.0" y="0.0" width="268" height="50"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="50" id="d3n-RU-HA4"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="Tajawal-Bold" family="Tajawal" pointSize="15"/>
+                                        <color key="textColor" red="0.1137254902" green="0.1137254902" blue="0.1215686275" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Massage" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="10" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="awJ-Ld-K48">
+                                        <rect key="frame" x="0.0" y="60" width="268" height="116"/>
+                                        <fontDescription key="fontDescription" name="Tajawal-Regular" family="Tajawal" pointSize="15"/>
+                                        <color key="textColor" red="0.1137254902" green="0.1137254902" blue="0.1215686275" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="iRK-8C-Sls">
+                                        <rect key="frame" x="0.0" y="186" width="268" height="50"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I1O-bE-aZ2">
+                                                <rect key="frame" x="0.0" y="0.0" width="129" height="50"/>
+                                                <color key="backgroundColor" red="0.64221924539999997" green="0.50027078390000002" blue="0.26333492990000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Tajawal-Bold" family="Tajawal" pointSize="15"/>
+                                                <state key="normal" title="Ok">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="25"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b5D-Vi-VDV">
+                                                <rect key="frame" x="139" y="0.0" width="129" height="50"/>
+                                                <color key="backgroundColor" red="0.93725490570000003" green="0.93725490570000003" blue="0.95686274770000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Tajawal-Bold" family="Tajawal" pointSize="15"/>
+                                                <state key="normal" title="Close">
+                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="25"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                            </button>
+                                        </subviews>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="50" id="H8A-dU-bcD"/>
+                                        </constraints>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="UOc-Yt-42D" secondAttribute="bottom" constant="16" id="EQM-Xm-ywk"/>
+                            <constraint firstItem="UOc-Yt-42D" firstAttribute="leading" secondItem="8kc-rR-nOw" secondAttribute="leading" constant="16" id="Xfy-vf-Lus"/>
+                            <constraint firstItem="UOc-Yt-42D" firstAttribute="top" secondItem="8kc-rR-nOw" secondAttribute="top" constant="15" id="kJh-0k-Dk0"/>
+                            <constraint firstAttribute="trailing" secondItem="UOc-Yt-42D" secondAttribute="trailing" constant="16" id="w34-Sa-PIz"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="25"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="8kc-rR-nOw" firstAttribute="centerY" secondItem="Ol9-vc-tVC" secondAttribute="centerY" id="26P-Yl-Emb"/>
+                    <constraint firstItem="8kc-rR-nOw" firstAttribute="width" secondItem="qGl-bp-XPa" secondAttribute="width" multiplier="0.8" id="2tI-yE-mo1"/>
+                    <constraint firstItem="qGl-bp-XPa" firstAttribute="leading" secondItem="Ol9-vc-tVC" secondAttribute="leading" id="E7W-qk-XB0"/>
+                    <constraint firstItem="8kc-rR-nOw" firstAttribute="height" secondItem="qGl-bp-XPa" secondAttribute="height" multiplier="0.4" id="UNZ-5u-1rk"/>
+                    <constraint firstItem="ILe-N5-EvV" firstAttribute="top" secondItem="qGl-bp-XPa" secondAttribute="bottom" id="VWz-Ss-sDc"/>
+                    <constraint firstItem="qGl-bp-XPa" firstAttribute="top" secondItem="Ol9-vc-tVC" secondAttribute="top" id="a2Z-U3-ufe"/>
+                    <constraint firstItem="8kc-rR-nOw" firstAttribute="centerX" secondItem="Ol9-vc-tVC" secondAttribute="centerX" id="pJ8-Lw-w2o"/>
+                    <constraint firstAttribute="trailing" secondItem="qGl-bp-XPa" secondAttribute="trailing" id="tEy-5A-Mi3"/>
+                </constraints>
+                <viewLayoutGuide key="safeArea" id="hYu-hV-Zt6"/>
+            </view>
+            <connections>
+                <outlet property="btnClose" destination="b5D-Vi-VDV" id="zBs-ky-ibt"/>
+                <outlet property="btnCloseTheme" destination="qGl-bp-XPa" id="XTQ-or-mWR"/>
+                <outlet property="btnOk" destination="I1O-bE-aZ2" id="PHk-kw-eXq"/>
+                <outlet property="lblMeesage" destination="awJ-Ld-K48" id="bVH-ah-AwN"/>
+                <outlet property="lblTitle" destination="ZiX-dW-1Mw" id="5ya-Da-M8M"/>
+            </connections>
+            <point key="canvasLocation" x="5247" y="1449"/>
+        </viewController>
+    </objects>
+</document>

@@ -1,0 +1,876 @@
+
+/* Class = "UILabel"; text = "Balcony"; ObjectID = "0CR-EC-Ybs"; */
+"0CR-EC-Ybs.text" = "Balcony";
+
+/* Class = "UILabel"; text = "Elevator"; ObjectID = "0q4-GA-VlD"; */
+"0q4-GA-VlD.text" = "Elevator";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "0s8-sO-Lkg"; */
+"0s8-sO-Lkg.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Property category"; ObjectID = "1H2-jt-Xsj"; */
+"1H2-jt-Xsj.text" = "Property category";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "1Qh-UX-u9j"; */
+"1Qh-UX-u9j.title" = "Menu";
+
+/* Class = "UILabel"; text = "Price range"; ObjectID = "1oq-UA-Wf1"; */
+"1oq-UA-Wf1.text" = "Price range";
+
+/* Class = "UINavigationItem"; title = "LATEST OFFERS"; ObjectID = "2CC-M8-pza"; */
+"2CC-M8-pza.title" = "LATEST OFFERS";
+
+/* Class = "UILabel"; text = "Add property Address "; ObjectID = "2Ek-lM-0SA"; */
+"2Ek-lM-0SA.text" = "Add property Address ";
+
+/* Class = "UILabel"; text = "Rooms"; ObjectID = "2Wc-1m-NMT"; */
+"2Wc-1m-NMT.text" = "Rooms";
+
+/* Class = "UILabel"; text = "Rooms"; ObjectID = "2e1-uK-ty3"; */
+"2e1-uK-ty3.text" = "Rooms";
+
+/* Class = "UINavigationItem"; title = "Add properity"; ObjectID = "2mi-0n-j3b"; */
+"2mi-0n-j3b.title" = "Add properity";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "2up-eE-Yyi"; */
+"2up-eE-Yyi.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "2xG-XS-JW6"; */
+"2xG-XS-JW6.text" = "1";
+
+/* Class = "UILabel"; text = "Space"; ObjectID = "2yv-NZ-GQB"; */
+"2yv-NZ-GQB.text" = "Space";
+
+/* Class = "UINavigationItem"; title = "ADD PROPERTY"; ObjectID = "3QR-4h-QLS"; */
+"3QR-4h-QLS.title" = "ADD PROPERTY";
+
+/* Class = "UILabel"; text = "Add property photos "; ObjectID = "3RT-Bc-p7M"; */
+"3RT-Bc-p7M.text" = "Add property photos ";
+
+/* Class = "UIButton"; normalTitle = "Furniture"; ObjectID = "3iv-Oh-2Wx"; */
+"3iv-Oh-2Wx.normalTitle" = "Furniture";
+
+/* Class = "UILabel"; text = "Login to Wasatta"; ObjectID = "3sF-Na-eTo"; */
+"3sF-Na-eTo.text" = "Login to Wasatta";
+
+/* Class = "UILabel"; text = "Add property photos "; ObjectID = "45C-TJ-x4a"; */
+"45C-TJ-x4a.text" = "Add property photos ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4CA-in-pgD"; */
+"4CA-in-pgD.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4DB-Om-oAf"; */
+"4DB-Om-oAf.text" = "Label";
+
+/* Class = "UILabel"; text = "Available"; ObjectID = "4a6-NG-RxW"; */
+"4a6-NG-RxW.text" = "Available";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4ac-fE-XyC"; */
+"4ac-fE-XyC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Elevator"; ObjectID = "4el-y6-Nbj"; */
+"4el-y6-Nbj.normalTitle" = "Elevator";
+
+/* Class = "UINavigationItem"; title = "MY PROPERTIES"; ObjectID = "4oO-eZ-Fgt"; */
+"4oO-eZ-Fgt.title" = "MY PROPERTIES";
+
+/* Class = "UILabel"; text = "$200,000,000"; ObjectID = "4zi-cb-Fbg"; */
+"4zi-cb-Fbg.text" = "$200,000,000";
+
+/* Class = "UILabel"; text = "Please select your properity location"; ObjectID = "58R-qe-ZcX"; */
+"58R-qe-ZcX.text" = "Please select your properity location";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "5Na-TL-Qxg"; */
+"5Na-TL-Qxg.title" = " ";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "6e7-z4-f7E"; */
+"6e7-z4-f7E.placeholder" = "Confirm New Password";
+
+/* Class = "UIButton"; normalTitle = "Heating"; ObjectID = "6iT-WY-NP5"; */
+"6iT-WY-NP5.normalTitle" = "Heating";
+
+/* Class = "UILabel"; text = "Furniture"; ObjectID = "6sl-Xa-b0u"; */
+"6sl-Xa-b0u.text" = "Furniture";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "6x4-N3-Qba"; */
+"6x4-N3-Qba.text" = "Address";
+
+/* Class = "UILabel"; text = "60 Days"; ObjectID = "6yW-YA-b6W"; */
+"6yW-YA-b6W.text" = "60 Days";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "719-aa-UbL"; */
+"719-aa-UbL.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "7Zg-YZ-VMG"; */
+"7Zg-YZ-VMG.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UILabel"; text = "Floors"; ObjectID = "7gM-O5-A7B"; */
+"7gM-O5-A7B.text" = "Floors";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "7tw-e2-Fvp"; */
+"7tw-e2-Fvp.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "Cleaning"; ObjectID = "85n-5X-2Vv"; */
+"85n-5X-2Vv.text" = "Cleaning";
+
+/* Class = "UILabel"; text = "262 3412601"; ObjectID = "87e-L8-tCg"; */
+"87e-L8-tCg.text" = "262 3412601";
+
+/* Class = "UILabel"; text = "Property Type"; ObjectID = "8D6-ok-sqM"; */
+"8D6-ok-sqM.text" = "Property Type";
+
+/* Class = "UIButton"; normalTitle = "Balcony"; ObjectID = "8Dr-lf-QmE"; */
+"8Dr-lf-QmE.normalTitle" = "Balcony";
+
+/* Class = "UILabel"; text = "Space"; ObjectID = "8Ia-Qa-Ibu"; */
+"8Ia-Qa-Ibu.text" = "Space";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "8My-JF-VEZ"; */
+"8My-JF-VEZ.text" = "-";
+
+/* Class = "UINavigationItem"; title = "LATEST OFFERS"; ObjectID = "8bp-0Y-hPF"; */
+"8bp-0Y-hPF.title" = "LATEST OFFERS";
+
+/* Class = "UILabel"; text = "floors"; ObjectID = "8hY-VC-lAq"; */
+"8hY-VC-lAq.text" = "floors";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "8nQ-Zc-ReW"; */
+"8nQ-Zc-ReW.text" = "-";
+
+/* Class = "UILabel"; text = "Balcony"; ObjectID = "96D-Zy-buE"; */
+"96D-Zy-buE.text" = "Balcony";
+
+/* Class = "UILabel"; text = "Rooms"; ObjectID = "9dS-Qb-hDE"; */
+"9dS-Qb-hDE.text" = "Rooms";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "9dT-oa-d5A"; */
+"9dT-oa-d5A.placeholder" = "Email address";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9fC-Mb-YAA"; */
+"9fC-Mb-YAA.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "9jy-iV-8Qe"; */
+"9jy-iV-8Qe.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Villa for sale"; ObjectID = "AHG-8R-rJV"; */
+"AHG-8R-rJV.text" = "Villa for sale";
+
+/* Class = "UIButton"; normalTitle = "Let's Continue"; ObjectID = "AWQ-bF-moC"; */
+"AWQ-bF-moC.normalTitle" = "Let's Continue";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "AfH-gC-EIb"; */
+"AfH-gC-EIb.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "Akl-SL-Hyl"; */
+"Akl-SL-Hyl.title" = "Menu";
+
+/* Class = "UILabel"; text = "Pool"; ObjectID = "BAZ-ch-Csc"; */
+"BAZ-ch-Csc.text" = "Pool";
+
+/* Class = "UILabel"; text = "262 3412601"; ObjectID = "BiW-G0-IO4"; */
+"BiW-G0-IO4.text" = "262 3412601";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "BrQ-kL-zg1"; */
+"BrQ-kL-zg1.text" = "Profile";
+
+/* Class = "UILabel"; text = "Add property Details 1 "; ObjectID = "BzK-jq-gy9"; */
+"BzK-jq-gy9.text" = "Add property Details 1 ";
+
+/* Class = "UINavigationItem"; title = "Search Results"; ObjectID = "C61-tL-7Q9"; */
+"C61-tL-7Q9.title" = "Search Results";
+
+/* Class = "UILabel"; text = "Internet"; ObjectID = "C8P-40-MWV"; */
+"C8P-40-MWV.text" = "Internet";
+
+/* Class = "UILabel"; text = "110"; ObjectID = "CKE-1U-bt2"; */
+"CKE-1U-bt2.text" = "110";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "CND-Su-ylv"; */
+"CND-Su-ylv.text" = "City";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "Cyk-bU-shi"; */
+"Cyk-bU-shi.normalTitle" = "Change Password";
+
+/* Class = "UINavigationItem"; title = "PROPERTY SEARCH"; ObjectID = "DWr-uv-IQg"; */
+"DWr-uv-IQg.title" = "PROPERTY SEARCH";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "DZe-hN-c2l"; */
+"DZe-hN-c2l.text" = "22";
+
+/* Class = "UILabel"; text = "Villa for sale"; ObjectID = "Ds4-xJ-fSt"; */
+"Ds4-xJ-fSt.text" = "Villa for sale";
+
+/* Class = "UILabel"; text = "Building Age"; ObjectID = "E3n-bE-urW"; */
+"E3n-bE-urW.text" = "Building Age";
+
+/* Class = "UINavigationItem"; title = "Properity Details"; ObjectID = "E4p-Pj-DfQ"; */
+"E4p-Pj-DfQ.title" = "Properity Details";
+
+/* Class = "UILabel"; text = "Add property Features "; ObjectID = "EEV-I6-V9R"; */
+"EEV-I6-V9R.text" = "Add property Features ";
+
+/* Class = "UILabel"; text = "250"; ObjectID = "EEh-wh-YI4"; */
+"EEh-wh-YI4.text" = "250";
+
+/* Class = "UIButton"; normalTitle = "Balcony"; ObjectID = "EK1-mb-C06"; */
+"EK1-mb-C06.normalTitle" = "Balcony";
+
+/* Class = "UILabel"; text = "$200,000,000"; ObjectID = "ERo-wN-hRt"; */
+"ERo-wN-hRt.text" = "$200,000,000";
+
+/* Class = "UILabel"; text = "Rent for:"; ObjectID = "Ega-RT-ibI"; */
+"Ega-RT-ibI.text" = "Rent for:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EjA-6K-H2z"; */
+"EjA-6K-H2z.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Heating"; ObjectID = "F7C-4M-zwW"; */
+"F7C-4M-zwW.normalTitle" = "Heating";
+
+/* Class = "UILabel"; text = "Bathrooms"; ObjectID = "Fra-8I-piO"; */
+"Fra-8I-piO.text" = "Bathrooms";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "Fu5-lM-qAn"; */
+"Fu5-lM-qAn.title" = "Menu";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "G5i-4D-NVk"; */
+"G5i-4D-NVk.text" = "Price";
+
+/* Class = "UILabel"; text = "Property Owner"; ObjectID = "GZw-7r-L9B"; */
+"GZw-7r-L9B.text" = "Property Owner";
+
+/* Class = "UILabel"; text = "Usage status\n"; ObjectID = "Gp3-cl-XU9"; */
+"Gp3-cl-XU9.text" = "Usage status\n";
+
+/* Class = "UILabel"; text = "110"; ObjectID = "GwY-gy-Tmp"; */
+"GwY-gy-Tmp.text" = "110";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "HO3-26-Mln"; */
+"HO3-26-Mln.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UILabel"; text = "Rooms"; ObjectID = "HON-bP-QxZ"; */
+"HON-bP-QxZ.text" = "Rooms";
+
+/* Class = "UILabel"; text = "Floors"; ObjectID = "HQB-3X-KOI"; */
+"HQB-3X-KOI.text" = "Floors";
+
+/* Class = "UIButton"; normalTitle = "Empty"; ObjectID = "HfK-Ug-tdY"; */
+"HfK-Ug-tdY.normalTitle" = "Empty";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HsT-w7-kyk"; */
+"HsT-w7-kyk.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "Ht1-1G-S9W"; */
+"Ht1-1G-S9W.title" = "Menu";
+
+/* Class = "UILabel"; text = "Property sub type"; ObjectID = "IYC-DB-oAW"; */
+"IYC-DB-oAW.text" = "Property sub type";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "J0H-HM-rnK"; */
+"J0H-HM-rnK.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "JuN-Qh-zEc"; */
+"JuN-Qh-zEc.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Property Type"; ObjectID = "KFY-Vz-cLV"; */
+"KFY-Vz-cLV.text" = "Property Type";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "KUu-Ir-4aV"; */
+"KUu-Ir-4aV.text" = "Home";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "KVm-Nm-mCP"; */
+"KVm-Nm-mCP.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UILabel"; text = "Owner"; ObjectID = "KYh-4U-6sh"; */
+"KYh-4U-6sh.text" = "Owner";
+
+/* Class = "UILabel"; text = "250"; ObjectID = "Kdl-I0-lMm"; */
+"Kdl-I0-lMm.text" = "250";
+
+/* Class = "UILabel"; text = "Please select your properity location"; ObjectID = "KmQ-8E-pna"; */
+"KmQ-8E-pna.text" = "Please select your properity location";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ks7-Po-9pH"; */
+"Ks7-Po-9pH.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "L6a-s7-4jV"; */
+"L6a-s7-4jV.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Bathrooms"; ObjectID = "LVP-Pt-i9X"; */
+"LVP-Pt-i9X.text" = "Bathrooms";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "LZ1-Ge-g5Y"; */
+"LZ1-Ge-g5Y.title" = "Filter";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Lit-4S-C8Q"; */
+"Lit-4S-C8Q.title" = " ";
+
+/* Class = "UILabel"; text = "Wifi"; ObjectID = "Lkp-zP-BbM"; */
+"Lkp-zP-BbM.text" = "Wifi";
+
+/* Class = "UILabel"; text = "floors"; ObjectID = "MJ6-kW-ASn"; */
+"MJ6-kW-ASn.text" = "floors";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "MPk-lP-qwE"; */
+"MPk-lP-qwE.title" = " ";
+
+/* Class = "UILabel"; text = "Look for properties with one click"; ObjectID = "MQL-0S-quw"; */
+"MQL-0S-quw.text" = "Look for properties with one click";
+
+/* Class = "UILabel"; text = "We are almost done!"; ObjectID = "MVH-SI-yN7"; */
+"MVH-SI-yN7.text" = "We are almost done!";
+
+/* Class = "UILabel"; text = "İZMİT KOCAELİ, İzmit, Kocaeli, Turkey"; ObjectID = "N0v-fY-lol"; */
+"N0v-fY-lol.text" = "İZMİT KOCAELİ, İzmit, Kocaeli, Turkey";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "NmM-YM-Sym"; */
+"NmM-YM-Sym.text" = "5";
+
+/* Class = "UILabel"; text = "Add property Features "; ObjectID = "NyQ-So-7n6"; */
+"NyQ-So-7n6.text" = "Add property Features ";
+
+/* Class = "UIButton"; normalTitle = "Balcony"; ObjectID = "NyW-9z-Bho"; */
+"NyW-9z-Bho.normalTitle" = "Balcony";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "O4S-ft-diS"; */
+"O4S-ft-diS.text" = "City";
+
+/* Class = "UILabel"; text = "Space"; ObjectID = "OAv-n5-Kxv"; */
+"OAv-n5-Kxv.text" = "Space";
+
+/* Class = "UIButton"; normalTitle = "Furniture"; ObjectID = "OH6-nc-DUn"; */
+"OH6-nc-DUn.normalTitle" = "Furniture";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "OYw-nE-lz7"; */
+"OYw-nE-lz7.text" = "Country";
+
+/* Class = "UIButton"; normalTitle = "Rented"; ObjectID = "OzH-wr-t25"; */
+"OzH-wr-t25.normalTitle" = "Rented";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "P9O-xU-fhT"; */
+"P9O-xU-fhT.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "PYB-ya-Tza"; */
+"PYB-ya-Tza.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UIButton"; normalTitle = "Cleaning"; ObjectID = "Pmy-2q-eOx"; */
+"Pmy-2q-eOx.normalTitle" = "Cleaning";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Pwm-VY-Iey"; */
+"Pwm-VY-Iey.text" = "5";
+
+/* Class = "UILabel"; text = "We are almost done!"; ObjectID = "PzF-qb-Pcq"; */
+"PzF-qb-Pcq.text" = "We are almost done!";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Q1T-lg-woA"; */
+"Q1T-lg-woA.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "QN6-WZ-0i7"; */
+"QN6-WZ-0i7.placeholder" = "Email address";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "QYV-au-j60"; */
+"QYV-au-j60.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "QwF-mL-CJf"; */
+"QwF-mL-CJf.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UILabel"; text = "Space range"; ObjectID = "QyZ-aa-DL1"; */
+"QyZ-aa-DL1.text" = "Space range";
+
+/* Class = "UILabel"; text = "Building Age"; ObjectID = "RQd-t2-rd0"; */
+"RQd-t2-rd0.text" = "Building Age";
+
+/* Class = "UILabel"; text = "Heating"; ObjectID = "RRR-oB-NZ2"; */
+"RRR-oB-NZ2.text" = "Heating";
+
+/* Class = "UILabel"; text = "Create your account\n"; ObjectID = "RSX-rS-OdP"; */
+"RSX-rS-OdP.text" = "Create your account\n";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "RaE-JM-FIb"; */
+"RaE-JM-FIb.title" = "Menu";
+
+/* Class = "UIViewController"; title = "Old Add 2"; ObjectID = "Rta-wV-G7q"; */
+"Rta-wV-G7q.title" = "Old Add 2";
+
+/* Class = "UILabel"; text = "Please select your properity location"; ObjectID = "Rxf-bz-ahN"; */
+"Rxf-bz-ahN.text" = "Please select your properity location";
+
+/* Class = "UILabel"; text = "Building Age"; ObjectID = "Ry1-vx-986"; */
+"Ry1-vx-986.text" = "Building Age";
+
+/* Class = "UILabel"; text = "Space"; ObjectID = "S2M-1E-Tuc"; */
+"S2M-1E-Tuc.text" = "Space";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "SCU-I8-uYD"; */
+"SCU-I8-uYD.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UILabel"; text = "Add property Address "; ObjectID = "SCU-cb-veo"; */
+"SCU-cb-veo.text" = "Add property Address ";
+
+/* Class = "UILabel"; text = "Bathrooms"; ObjectID = "SP0-vA-zXT"; */
+"SP0-vA-zXT.text" = "Bathrooms";
+
+/* Class = "UILabel"; text = "7 Years"; ObjectID = "SXY-ge-raa"; */
+"SXY-ge-raa.text" = "7 Years";
+
+/* Class = "UILabel"; text = " heating Distribution"; ObjectID = "Ssl-tw-xEY"; */
+"Ssl-tw-xEY.text" = " heating Distribution";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "T3Q-zO-xkY"; */
+"T3Q-zO-xkY.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "T8e-SR-hgn"; */
+"T8e-SR-hgn.title" = "Menu";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "TNm-yB-WSf"; */
+"TNm-yB-WSf.text" = "3";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "TSJ-eq-o6F"; */
+"TSJ-eq-o6F.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Td3-v8-qAJ"; */
+"Td3-v8-qAJ.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "Tlq-8y-6a3"; */
+"Tlq-8y-6a3.text" = "3";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Ty1-Og-C7R"; */
+"Ty1-Og-C7R.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "$200,000,000"; ObjectID = "U5r-Wt-lU9"; */
+"U5r-Wt-lU9.text" = "$200,000,000";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "U8X-vP-RvW"; */
+"U8X-vP-RvW.title" = "Menu";
+
+/* Class = "UINavigationItem"; title = "LATEST OFFERS"; ObjectID = "UCc-Ij-xF3"; */
+"UCc-Ij-xF3.title" = "LATEST OFFERS";
+
+/* Class = "UILabel"; text = "Bathrooms"; ObjectID = "Uy4-vy-ERn"; */
+"Uy4-vy-ERn.text" = "Bathrooms";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "V5P-kT-P37"; */
+"V5P-kT-P37.title" = "Menu";
+
+/* Class = "UILabel"; text = "Floors"; ObjectID = "VXY-D1-l9Y"; */
+"VXY-D1-l9Y.text" = "Floors";
+
+/* Class = "UILabel"; text = "Furniture"; ObjectID = "VYL-Xk-gdR"; */
+"VYL-Xk-gdR.text" = "Furniture";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "VxG-nc-hEC"; */
+"VxG-nc-hEC.title" = " ";
+
+/* Class = "UILabel"; text = "floors"; ObjectID = "WbS-Fe-0a6"; */
+"WbS-Fe-0a6.text" = "floors";
+
+/* Class = "UILabel"; text = "Rooms"; ObjectID = "Web-5g-axp"; */
+"Web-5g-axp.text" = "Rooms";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "WiC-Gb-TbY"; */
+"WiC-Gb-TbY.title" = "Menu";
+
+/* Class = "UILabel"; text = "Space"; ObjectID = "WqB-af-ZJL"; */
+"WqB-af-ZJL.text" = "Space";
+
+/* Class = "UILabel"; text = "Cleaning"; ObjectID = "Wri-Md-4gp"; */
+"Wri-Md-4gp.text" = "Cleaning";
+
+/* Class = "UILabel"; text = "heating Type"; ObjectID = "X5P-l1-ObL"; */
+"X5P-l1-ObL.text" = "heating Type";
+
+/* Class = "UILabel"; text = "Add property Details 2 "; ObjectID = "XCm-Fw-8c7"; */
+"XCm-Fw-8c7.text" = "Add property Details 2 ";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "XCx-8o-ASH"; */
+"XCx-8o-ASH.text" = "3";
+
+/* Class = "UILabel"; text = "Sign out"; ObjectID = "XHr-4b-CU3"; */
+"XHr-4b-CU3.text" = "Sign out";
+
+/* Class = "UILabel"; text = "My properties"; ObjectID = "XON-xB-QkI"; */
+"XON-xB-QkI.text" = "My properties";
+
+/* Class = "UILabel"; text = "Owner"; ObjectID = "XRQ-Ye-X9r"; */
+"XRQ-Ye-X9r.text" = "Owner";
+
+/* Class = "UILabel"; text = "We are almost done!"; ObjectID = "Xdq-eM-2kh"; */
+"Xdq-eM-2kh.text" = "We are almost done!";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "XeE-qa-kFz"; */
+"XeE-qa-kFz.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Balcony"; ObjectID = "Xhd-jv-xkY"; */
+"Xhd-jv-xkY.text" = "Balcony";
+
+/* Class = "UIButton"; normalTitle = "Can't Sign in?"; ObjectID = "Y17-ma-zPt"; */
+"Y17-ma-zPt.normalTitle" = "Can't Sign in?";
+
+/* Class = "UILabel"; text = "Bathrooms"; ObjectID = "YLY-lC-f67"; */
+"YLY-lC-f67.text" = "Bathrooms";
+
+/* Class = "UILabel"; text = "Property status"; ObjectID = "ZBf-fW-8om"; */
+"ZBf-fW-8om.text" = "Property status";
+
+/* Class = "UIButton"; normalTitle = "Cleaning"; ObjectID = "ZZU-OF-Ral"; */
+"ZZU-OF-Ral.normalTitle" = "Cleaning";
+
+/* Class = "UILabel"; text = "Heating"; ObjectID = "aP7-rn-w41"; */
+"aP7-rn-w41.text" = "Heating";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "agX-zG-yWh"; */
+"agX-zG-yWh.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "anL-Mp-mWZ"; */
+"anL-Mp-mWZ.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "Elevator"; ObjectID = "aya-1W-jyj"; */
+"aya-1W-jyj.text" = "Elevator";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "bOQ-AL-a9X"; */
+"bOQ-AL-a9X.title" = "Filter";
+
+/* Class = "UILabel"; text = "Very Good"; ObjectID = "bdF-Jc-IaO"; */
+"bdF-Jc-IaO.text" = "Very Good";
+
+/* Class = "UILabel"; text = "Pool"; ObjectID = "bfd-IW-rkQ"; */
+"bfd-IW-rkQ.text" = "Pool";
+
+/* Class = "UIButton"; normalTitle = "Pool"; ObjectID = "br5-cz-WPF"; */
+"br5-cz-WPF.normalTitle" = "Pool";
+
+/* Class = "UILabel"; text = "$200,000,000"; ObjectID = "btA-jd-j1t"; */
+"btA-jd-j1t.text" = "$200,000,000";
+
+/* Class = "UIButton"; normalTitle = "Balcony"; ObjectID = "cDf-Ea-DEV"; */
+"cDf-Ea-DEV.normalTitle" = "Balcony";
+
+/* Class = "UILabel"; text = "Said Abdulla"; ObjectID = "cNR-Xz-mUr"; */
+"cNR-Xz-mUr.text" = "Said Abdulla";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "cQJ-3F-mxd"; */
+"cQJ-3F-mxd.normalTitle" = "Sign in";
+
+/* Class = "UILabel"; text = "Please select your properity location"; ObjectID = "cpq-nW-Muy"; */
+"cpq-nW-Muy.text" = "Please select your properity location";
+
+/* Class = "UINavigationItem"; title = "Edit properity"; ObjectID = "d5H-yC-VGr"; */
+"d5H-yC-VGr.title" = "Edit properity";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "dJm-4P-9Bz"; */
+"dJm-4P-9Bz.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Rooms"; ObjectID = "dTe-GC-gn0"; */
+"dTe-GC-gn0.text" = "Rooms";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dzB-8K-1va"; */
+"dzB-8K-1va.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Furniture"; ObjectID = "e10-hX-baz"; */
+"e10-hX-baz.text" = "Furniture";
+
+/* Class = "UINavigationItem"; title = "MY PROFILE"; ObjectID = "eMD-VC-FZR"; */
+"eMD-VC-FZR.title" = "MY PROFILE";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "eMN-mw-XQD"; */
+"eMN-mw-XQD.title" = "Menu";
+
+/* Class = "UILabel"; text = "Add property"; ObjectID = "ery-sP-CBn"; */
+"ery-sP-CBn.text" = "Add property";
+
+/* Class = "UILabel"; text = "furniture"; ObjectID = "evb-cr-UwJ"; */
+"evb-cr-UwJ.text" = "furniture";
+
+/* Class = "UILabel"; text = "Elevator"; ObjectID = "fBt-qz-cEB"; */
+"fBt-qz-cEB.text" = "Elevator";
+
+/* Class = "UILabel"; text = "İZMİT KOCAELİ, İzmit, Kocaeli, Turkey"; ObjectID = "fF3-XD-kZ1"; */
+"fF3-XD-kZ1.text" = "İZMİT KOCAELİ, İzmit, Kocaeli, Turkey";
+
+/* Class = "UILabel"; text = "Current floor"; ObjectID = "fTB-vQ-70g"; */
+"fTB-vQ-70g.text" = "Current floor";
+
+/* Class = "UILabel"; text = "Internet"; ObjectID = "fV4-Xe-YZS"; */
+"fV4-Xe-YZS.text" = "Internet";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "fnZ-MN-2B4"; */
+"fnZ-MN-2B4.text" = "22";
+
+/* Class = "UILabel"; text = "Ownership"; ObjectID = "gdh-Vz-AtA"; */
+"gdh-Vz-AtA.text" = "Ownership";
+
+/* Class = "UILabel"; text = "Rent Period"; ObjectID = "gog-wY-7ns"; */
+"gog-wY-7ns.text" = "Rent Period";
+
+/* Class = "UIButton"; normalTitle = "Palestine"; ObjectID = "gr9-6l-fZ0"; */
+"gr9-6l-fZ0.normalTitle" = "Palestine";
+
+/* Class = "UIButton"; normalTitle = "Cleaning"; ObjectID = "gxT-zB-nqR"; */
+"gxT-zB-nqR.normalTitle" = "Cleaning";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "h4H-2Y-wat"; */
+"h4H-2Y-wat.text" = "City";
+
+/* Class = "UIButton"; normalTitle = "Balcony"; ObjectID = "h5u-yS-FTC"; */
+"h5u-yS-FTC.normalTitle" = "Balcony";
+
+/* Class = "UILabel"; text = "Add property Details 2 "; ObjectID = "hMM-ui-1LA"; */
+"hMM-ui-1LA.text" = "Add property Details 2 ";
+
+/* Class = "UILabel"; text = "Apartment age\n"; ObjectID = "hda-Di-n1N"; */
+"hda-Di-n1N.text" = "Apartment age\n";
+
+/* Class = "UILabel"; text = "İZMİT KOCAELİ, İzmit, Kocaeli, Turkey"; ObjectID = "hxn-Rk-Ge2"; */
+"hxn-Rk-Ge2.text" = "İZMİT KOCAELİ, İzmit, Kocaeli, Turkey";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i0C-gv-LbK"; */
+"i0C-gv-LbK.text" = "Label";
+
+/* Class = "UILabel"; text = "Add property Features "; ObjectID = "i8y-0d-zW3"; */
+"i8y-0d-zW3.text" = "Add property Features ";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "iKi-71-ads"; */
+"iKi-71-ads.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Heating"; ObjectID = "iQ1-HF-Afx"; */
+"iQ1-HF-Afx.text" = "Heating";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "iUo-av-REl"; */
+"iUo-av-REl.text" = "Welcome";
+
+/* Class = "UILabel"; text = "Pool"; ObjectID = "idA-40-W7H"; */
+"idA-40-W7H.text" = "Pool";
+
+/* Class = "UILabel"; text = "Villa for sale"; ObjectID = "ikb-77-kJ9"; */
+"ikb-77-kJ9.text" = "Villa for sale";
+
+/* Class = "UIButton"; normalTitle = "Gaza city"; ObjectID = "iu6-rg-qsB"; */
+"iu6-rg-qsB.normalTitle" = "Gaza city";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "ivU-pJ-gft"; */
+"ivU-pJ-gft.placeholder" = "Current Password";
+
+/* Class = "UILabel"; text = "Required informations for registration"; ObjectID = "j6O-e1-Bsw"; */
+"j6O-e1-Bsw.text" = "Required informations for registration";
+
+/* Class = "UILabel"; text = "Cleaning"; ObjectID = "jMY-mZ-9yC"; */
+"jMY-mZ-9yC.text" = "Cleaning";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "jcO-EW-V3B"; */
+"jcO-EW-V3B.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "floors"; ObjectID = "jd6-4t-AXe"; */
+"jd6-4t-AXe.text" = "floors";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "jqc-vI-ypH"; */
+"jqc-vI-ypH.text" = "Price";
+
+/* Class = "UILabel"; text = "Current floor"; ObjectID = "jyx-dc-3uU"; */
+"jyx-dc-3uU.text" = "Current floor";
+
+/* Class = "UILabel"; text = "Add property Address "; ObjectID = "kFj-kz-mEx"; */
+"kFj-kz-mEx.text" = "Add property Address ";
+
+/* Class = "UILabel"; text = "Bathrooms"; ObjectID = "kyN-eV-za9"; */
+"kyN-eV-za9.text" = "Bathrooms";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "l3I-Y5-b9v"; */
+"l3I-Y5-b9v.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UIButton"; normalTitle = "Cleaning"; ObjectID = "lKP-QW-QXi"; */
+"lKP-QW-QXi.normalTitle" = "Cleaning";
+
+/* Class = "UILabel"; text = "Rooms"; ObjectID = "lXn-k2-eNM"; */
+"lXn-k2-eNM.text" = "Rooms";
+
+/* Class = "UILabel"; text = "Bathrooms"; ObjectID = "lv2-om-WhR"; */
+"lv2-om-WhR.text" = "Bathrooms";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "m66-wl-QiG"; */
+"m66-wl-QiG.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UILabel"; text = "Current floor"; ObjectID = "mLh-Nz-Fy0"; */
+"mLh-Nz-Fy0.text" = "Current floor";
+
+/* Class = "UILabel"; text = "Space"; ObjectID = "mw4-J8-Kgq"; */
+"mw4-J8-Kgq.text" = "Space";
+
+/* Class = "UILabel"; text = "Property Status"; ObjectID = "myR-lp-D7e"; */
+"myR-lp-D7e.text" = "Property Status";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "nvL-wn-tjk"; */
+"nvL-wn-tjk.title" = "Menu";
+
+/* Class = "UILabel"; text = "Villa for rent"; ObjectID = "odE-nI-PrE"; */
+"odE-nI-PrE.text" = "Villa for rent";
+
+/* Class = "UILabel"; text = "Add property photos "; ObjectID = "pQa-XQ-CSM"; */
+"pQa-XQ-CSM.text" = "Add property photos ";
+
+/* Class = "UILabel"; text = "Available"; ObjectID = "pXh-QI-NXe"; */
+"pXh-QI-NXe.text" = "Available";
+
+/* Class = "UILabel"; text = "250"; ObjectID = "q2j-Zb-RQO"; */
+"q2j-Zb-RQO.text" = "250";
+
+/* Class = "UINavigationItem"; title = "CHANGE PASSWORD"; ObjectID = "q5b-dN-h1F"; */
+"q5b-dN-h1F.title" = "CHANGE PASSWORD";
+
+/* Class = "UILabel"; text = " heating Distribution"; ObjectID = "q66-X9-O2I"; */
+"q66-X9-O2I.text" = " heating Distribution";
+
+/* Class = "UILabel"; text = "Balcony"; ObjectID = "q8R-ML-nNM"; */
+"q8R-ML-nNM.text" = "Balcony";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "qEP-5F-dbO"; */
+"qEP-5F-dbO.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Property Status"; ObjectID = "qGU-Aa-kZk"; */
+"qGU-Aa-kZk.text" = "Property Status";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qqm-EE-iE9"; */
+"qqm-EE-iE9.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sign up for an account\n"; ObjectID = "rK6-Jl-byU"; */
+"rK6-Jl-byU.normalTitle" = "Sign up for an account\n";
+
+/* Class = "UILabel"; text = "Current floor"; ObjectID = "rcM-Cf-frE"; */
+"rcM-Cf-frE.text" = "Current floor";
+
+/* Class = "UILabel"; text = "Please sign in to continue"; ObjectID = "re8-yQ-1tk"; */
+"re8-yQ-1tk.text" = "Please sign in to continue";
+
+/* Class = "UIButton"; normalTitle = "Select rent duration"; ObjectID = "rh7-8D-4K9"; */
+"rh7-8D-4K9.normalTitle" = "Select rent duration";
+
+/* Class = "UILabel"; text = "Heating"; ObjectID = "riI-fW-d4W"; */
+"riI-fW-d4W.text" = "Heating";
+
+/* Class = "UILabel"; text = "heating Type"; ObjectID = "sGg-6z-RbZ"; */
+"sGg-6z-RbZ.text" = "heating Type";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "sIu-Ai-qeg"; */
+"sIu-Ai-qeg.text" = "3";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "sVD-lS-sr1"; */
+"sVD-lS-sr1.text" = "1";
+
+/* Class = "UIViewController"; title = "old Add property"; ObjectID = "sgJ-jv-zVj"; */
+"sgJ-jv-zVj.title" = "old Add property";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "sla-Yo-ppc"; */
+"sla-Yo-ppc.text" = "Country";
+
+/* Class = "UILabel"; text = "Building Age"; ObjectID = "t03-c9-Q3L"; */
+"t03-c9-Q3L.text" = "Building Age";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "txa-zc-h42"; */
+"txa-zc-h42.text" = "Country";
+
+/* Class = "UILabel"; text = "Available"; ObjectID = "u0M-c8-wDx"; */
+"u0M-c8-wDx.text" = "Available";
+
+/* Class = "UIButton"; normalTitle = "Balcony"; ObjectID = "u2d-bH-s4j"; */
+"u2d-bH-s4j.normalTitle" = "Balcony";
+
+/* Class = "UIButton"; normalTitle = "Cleaning"; ObjectID = "u7a-e7-2bY"; */
+"u7a-e7-2bY.normalTitle" = "Cleaning";
+
+/* Class = "UILabel"; text = "Bathrooms"; ObjectID = "u9V-ts-e28"; */
+"u9V-ts-e28.text" = "Bathrooms";
+
+/* Class = "UILabel"; text = "Select Up to 5  suitable photos for your property"; ObjectID = "uHh-YT-IpE"; */
+"uHh-YT-IpE.text" = "Select Up to 5  suitable photos for your property";
+
+/* Class = "UIButton"; normalTitle = "Home owner"; ObjectID = "uKn-hh-QEQ"; */
+"uKn-hh-QEQ.normalTitle" = "Home owner";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "uY7-JN-f8M"; */
+"uY7-JN-f8M.text" = "1";
+
+/* Class = "UILabel"; text = "Heating"; ObjectID = "uhz-pI-5nx"; */
+"uhz-pI-5nx.text" = "Heating";
+
+/* Class = "UILabel"; text = "Rooms"; ObjectID = "ukU-KU-ZH0"; */
+"ukU-KU-ZH0.text" = "Rooms";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ulI-MY-p8j"; */
+"ulI-MY-p8j.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cleaning"; ObjectID = "umN-WT-Saw"; */
+"umN-WT-Saw.normalTitle" = "Cleaning";
+
+/* Class = "UILabel"; text = "Add property Features "; ObjectID = "urk-L2-mBe"; */
+"urk-L2-mBe.text" = "Add property Features ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vA0-L2-VM3"; */
+"vA0-L2-VM3.text" = "Label";
+
+/* Class = "UILabel"; text = "Please select your properity location"; ObjectID = "vDb-yt-b3Z"; */
+"vDb-yt-b3Z.text" = "Please select your properity location";
+
+/* Class = "UILabel"; text = "Please select your properity location"; ObjectID = "vTx-MF-HRu"; */
+"vTx-MF-HRu.text" = "Please select your properity location";
+
+/* Class = "UILabel"; text = "Features"; ObjectID = "vZb-Dt-juH"; */
+"vZb-Dt-juH.text" = "Features";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w5M-Zu-94M"; */
+"w5M-Zu-94M.text" = "Label";
+
+/* Class = "UILabel"; text = "Property Status"; ObjectID = "wLP-yT-70o"; */
+"wLP-yT-70o.text" = "Property Status";
+
+/* Class = "UILabel"; text = "262 3412601"; ObjectID = "xCl-AK-o6b"; */
+"xCl-AK-o6b.text" = "262 3412601";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "xNi-rN-bEN"; */
+"xNi-rN-bEN.title" = "Filter";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "xjJ-tY-3rb"; */
+"xjJ-tY-3rb.placeholder" = "Email address";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "xjW-Sd-9K4"; */
+"xjW-Sd-9K4.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "xys-mw-dON"; */
+"xys-mw-dON.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "Pool"; ObjectID = "yJq-BY-eVm"; */
+"yJq-BY-eVm.normalTitle" = "Pool";
+
+/* Class = "UILabel"; text = "Heating"; ObjectID = "yKc-C2-Erd"; */
+"yKc-C2-Erd.text" = "Heating";
+
+/* Class = "UIButton"; normalTitle = "Select rent duration"; ObjectID = "yVL-9h-IMM"; */
+"yVL-9h-IMM.normalTitle" = "Select rent duration";
+
+/* Class = "UILabel"; text = "Property sub type"; ObjectID = "yZC-G4-9Dc"; */
+"yZC-G4-9Dc.text" = "Property sub type";
+
+/* Class = "UILabel"; text = "Add property Details 1 "; ObjectID = "yiW-Nv-FvG"; */
+"yiW-Nv-FvG.text" = "Add property Details 1 ";
+
+/* Class = "UIButton"; normalTitle = "Elevator"; ObjectID = "ylY-qd-afr"; */
+"ylY-qd-afr.normalTitle" = "Elevator";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "yuk-3z-Cli"; */
+"yuk-3z-Cli.normalTitle" = "Finish";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "zGk-DW-pP5"; */
+"zGk-DW-pP5.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "zKh-ZJ-ngN"; */
+"zKh-ZJ-ngN.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "250"; ObjectID = "zfx-d7-PGs"; */
+"zfx-d7-PGs.text" = "250";
+
+/* Class = "UILabel"; text = "Add property Details 2 "; ObjectID = "zlb-fQ-bpF"; */
+"zlb-fQ-bpF.text" = "Add property Details 2 ";
+
+/* Class = "UILabel"; text = "Floors"; ObjectID = "zpr-Zg-uUG"; */
+"zpr-Zg-uUG.text" = "Floors";
+
+/* Class = "UIButton"; normalTitle = "Log in to continue"; ObjectID = "zxc-u9-lCt"; */
+"zxc-u9-lCt.normalTitle" = "Log in to continue";

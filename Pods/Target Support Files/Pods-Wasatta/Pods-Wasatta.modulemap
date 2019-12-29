@@ -1,0 +1,6 @@
+framework module Pods_Wasatta {
+  umbrella header "Pods-Wasatta-umbrella.h"
+
+  export *
+  module * { export * }
+}

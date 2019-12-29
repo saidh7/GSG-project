@@ -1,0 +1,21 @@
+/* 
+  ButtonTitles.strings
+  Wasatta
+
+  Created by Said Abdulla on 3/20/19.
+  Copyright © 2019 Said Abdulla. All rights reserved.
+*/
+"Change" = "تغيير اللغة";
+
+"Reset" = "اللغة الافتراضية";
+
+"Sign in" = "تسجيل الدخول";
+"Skip" = "استكمال";
+"Sign in with Facebook" = "تسجيل بواسطة فيسبوك";
+"Sign in with Google" = "تسجيل بواسطة جوجل";
+"Sign up to continue" = "تسجيل مستخدم جديد";
+"Show all properties" = "عرض جميع العقارات";
+"Sign up" = "تسجيل";
+"Skip" = "تخطى";
+"Login to continue" = "تسجيل الدخول";
+"More search filters" = "خيارات بحث اضافية";
